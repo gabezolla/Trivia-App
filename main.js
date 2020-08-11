@@ -143,8 +143,5 @@ function restartGame(sum) {
     })
 }
 
-// ADICIONAR OUTROS TEMAS DE JOGO
-// ADICIONAR API COM MAIS PERGUNTAS (colocar template string no link da API)
-
 
 
